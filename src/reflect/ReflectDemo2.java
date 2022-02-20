@@ -4,6 +4,7 @@ import domain.Person;
 
 import java.lang.reflect.Field;
 
+
 public class ReflectDemo2 {
     public static void main(String[] args) throws NoSuchFieldException, IllegalAccessException {
         Class<Person> personClass = Person.class;
