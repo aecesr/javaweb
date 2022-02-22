@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+}
+h1{
+    margin-left: 10px;
+}
+h2{
+    margin-left: 10px;
+}
+ul li{
+    list-style: none;
+    float: left;
+    width: 200px;
+    height: 120px;
+    background-color: antiquewhite;
+    margin-left:10px ;
+    text-align: center;
+    line-height: 120px;
+}
+ul li:hover{
+    background-color: burlywood;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+}
